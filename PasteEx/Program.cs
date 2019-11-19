@@ -10,7 +10,7 @@ namespace PasteEx
 {
     static class Program
     {
-        /// <summary>2019年11月19日 星期二
+        /// <summary>2019年11月19日 星期2
         /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
